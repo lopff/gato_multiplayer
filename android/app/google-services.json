@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202197823904",
+    "firebase_url": "https://gatomultiplayer-1ff9d.firebaseio.com",
+    "project_id": "gatomultiplayer-1ff9d",
+    "storage_bucket": "gatomultiplayer-1ff9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202197823904:android:22603b6e0e067737",
+        "android_client_info": {
+          "package_name": "com.apisoft.gato_multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202197823904-smq43ebks8il3vmjk60q6douha8sqd5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apisoft.gato_multiplayer",
+            "certificate_hash": "38874d61ae8acb42a34d6dd68af46506a5b3229b"
+          }
+        },
+        {
+          "client_id": "202197823904-o41ej2bvp49hooqf1bspa3chae55j3d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZfcjidjbzud6xGV4Cqx88aBvwEwPNeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202197823904-o41ej2bvp49hooqf1bspa3chae55j3d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
